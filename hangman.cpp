@@ -1,8 +1,4 @@
 /*
- * Name: Md Fazle Rabbi
- * Professor Vincent Mierlak
- * CISC 1600
- * Final Project Part II
  * hangman.cpp
  */
 
